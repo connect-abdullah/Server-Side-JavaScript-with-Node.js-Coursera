@@ -1,0 +1,72 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2025-01-04T02:56:50.491Z",
+    "end": "2025-01-04T02:56:50.495Z",
+    "duration": 4
+  },
+  "tests": [
+    {
+      "title": "calculate weight loss in a month valid parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month valid parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "calculate weight loss in a month invalid parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month invalid parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "calculate weight loss in a month negative parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month negative parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "calculate weight loss in a month valid parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month valid parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 1,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "calculate weight loss in a month invalid parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month invalid parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "calculate weight loss in a month negative parameters",
+      "fullTitle": "Weight Lost calculate weight loss in a month negative parameters",
+      "file": "/Users/mabdullah/Desktop/calorie-tracker-master/test/calorieTracker.spec.js",
+      "duration": 0,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
