@@ -1,0 +1,23 @@
+{
+  "name": "sprint5-practice3-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "csv-parser": "^3.0.0",
+    "lodash": "^4.17.21",
+    "mocha": "^11.1.0",
+    "node": "^18.20.6"
+  }
+}
